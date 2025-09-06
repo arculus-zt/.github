@@ -30,13 +30,13 @@ This repository contains the core Arculus software stack, including the UI, Node
 * **Tech Stack:** `JavaScript (73.7%)`, `Python (15.6%)`, `Jupyter Notebook (6.4%)`, `CSS (2.3%)`, `Shell (1.1%)`, `Dockerfile (0.4%)`
 * **[Go to Repository &rarr;](https://github.com/arculus-zt/arculus-sw)**
 
-### 2. `arculus-fl` - Federated Learning Intrusion Detection System
-This repository contains the codebase for FL-IDS, a system designed to detect and mitigate network-level attacks (like DDoS) in drone swarms using a hybrid deep learning and Federated Learning (FL) framework.
-* **Tech Stack:** `Jupyter Notebook (85.9%)`, `Python (13.8%)`, `Shell (0.3%)`
-* **[Go to Repository &rarr;](https://github.com/arculus-zt/arculus-fl)**
-
-### 3. `arculus-rl` - Multi-Agent Drone Pathfinding with DQN
+### 2. `arculus-rl` - Multi-Agent Drone Pathfinding with DQN
 This repository hosts the Reinforcement Learning (RL) module for the Arculus Project. It uses a multi-agent Deep Q-Network (DQN) approach to train two drones for tactical navigation, avoiding obstacles and congestion.
 * **Tech Stack:** `Jupyter Notebook (64.1%)`, `Python (35.9%)`
 * **[Go to Repository &rarr;](https://github.com/arculus-zt/arculus-rl)**
+
+### 3. `arculus-fl` - Federated Learning Intrusion Detection System
+This repository contains the codebase for FL-IDS, a system designed to detect and mitigate network-level attacks (like DDoS) in drone swarms using a hybrid deep learning and Federated Learning (FL) framework.
+* **Tech Stack:** `Jupyter Notebook (85.9%)`, `Python (13.8%)`, `Shell (0.3%)`
+* **[Go to Repository &rarr;](https://github.com/arculus-zt/arculus-fl)**
 ---

@@ -1,5 +1,5 @@
 <h2 align="center">
-<b>Arculus Zero Trust (ZT) Project</b>
+<b>Arculus Zero Trust Project</b>
 </h2>
 
 <p align="center">

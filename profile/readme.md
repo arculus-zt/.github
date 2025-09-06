@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="arculus_logo.png" alt="Arculus-ZT Logo" width="150"/>
+  <img src="https://github.com/arculus-zt/.github/blob/main/arculus_logo.png" alt="Arculus-ZT Logo" width="150"/>
 </p>
 
 <p align="center">

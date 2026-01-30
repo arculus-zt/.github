@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-blue" alt="Version 2.0"/>
-  <img src="https://img.shields.io/badge/Deliverable%20Date-2025--09--05-informational" alt="Date: 2025-09-05"/>
+  <img src="https://img.shields.io/badge/Version-3.0-blue" alt="Version 3.0"/>
+  <img src="https://img.shields.io/badge/Deliverable%20Date-2026--01--30-informational" alt="Date: 2026-01-30"/>
 </p>
 
 ---
@@ -39,4 +39,9 @@ This repository hosts the Reinforcement Learning (RL) module for the Arculus Pro
 This repository contains the codebase for FL-IDS, a system designed to detect and mitigate network-level attacks (like DDoS) in drone swarms using a hybrid deep learning and Federated Learning (FL) framework.
 * **Tech Stack:** `Jupyter Notebook (85.9%)`, `Python (13.8%)`, `Shell (0.3%)`
 * **[Go to Repository &rarr;](https://github.com/arculus-zt/arculus-fl)**
+
+### 4. `ArculusLearning` - Arculus Curriculum Portal
+This repository contains the codebase for the hands-on curriculum platform. The platform houses over 10 modules to teach concepts of ZT in DDIL scenarios, how to use Arculus software, and execute missions.
+* **Tech Stack:** `HTML (60.7%)`, `CSS (27.6%)`, `Java (11.0%)`, `JavaScript (0.7%)`
+* **[Go to Repository &rarr;](https://github.com/arculus-zt/ArculusLearning)**
 ---
